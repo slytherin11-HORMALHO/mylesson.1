@@ -6,10 +6,10 @@ body {
 
 header{
     background-color: blue;
-    padding: 5px;
     color: white;
     padding: 10px;
     text-decoration: 20px;
+    margin-bottom: 30px;
 }
 
 h1{
