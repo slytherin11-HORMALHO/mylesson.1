@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    padding: 10px;
+    text-decoration: 20px;
+}
+
+header{
+    background-color: blue;
+    padding: 5px;
+    color: white;
+    padding: 10px;
+    text-decoration: 20px;
+}
+
+h1{
+    background-color: aqua;
+    color: blue;
+    font-family: sans-serif;
+    padding: 10px;
+    text-decoration: 20px;
+} 
+
+footer{
+    background-color: greenyellow;
+    padding: 10px;
+    text-decoration: 20px;
+}
+
+footer p{
+    background-color: white;
+    padding: 5px;
+    text-decoration: 20px;
+}
+
+nav a{
+    border-radius:5px;
+    padding: 10px; 
+    background-color: rgba(0, 255, 8, 0.584);
+    border: 2px solid rgba(22, 215, 0, 0.275);
+    margin: 10px ;
+    text-decoration: 20px;
+}
+
+nav{
+    border:5px;
+    text-decoration: 20px;
+}
+
+
+.lala{
+    background-color: rgb(40, 230, 22);
+    padding: 10px; 
+}
+
+.hihi{
+    background-color: rgb(40, 230, 22);
+    padding: 10px; 
+}
+
+.haha{
+    background-color: rgb(40, 230, 22);
+    padding: 10px; 
+}
+
+.didi{
+    background-color: rgb(40, 230, 22);
+    padding: 10px; 
+}
